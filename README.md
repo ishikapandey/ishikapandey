@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishika Pandey</h1>
 <h3 align="center">I have always been fascinated by technology. I continue to explore and implement new tech stacks.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikapandey" alt="ishikapandey" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikapandey" alt="ishikapandey" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
